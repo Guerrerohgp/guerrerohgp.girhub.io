@@ -1,45 +1,138 @@
 {
     "personalInfo": {
-       "name": "👨‍💻 Name",
-       "position": "Position",
-       "brief": "Brief.",
-       "email": "firstpartemail",
-       "emailDomain": "domain.com",
-       "location": "Azgard",
+       "name": "👨‍💻 Hugo A. Guerrero",
+       "position": "Software Architect",
+       "brief": "Experienced Software Architect with more than 10 years involved in all phases of software development - from concept to delivery.",
+       "email": "ing@hugoguerrero.com",
+       "emailDomain": "https://www.hugoguerrero.com",
+       "location": "Dominican Replublic",
        "gender": "Male",
-       "github": "username",
-       "linkedin": "username",
-       "twitter": "username"
+       "github": "guerrerohgp",
+       "linkedin": "guerrerohgp",
+       "twitter": "guerrerohgp"
     },
     "educationInfo": {
        "data": [
-          {
-             "school": {
-                "name": "Name",
-                "logoUrl": "https://logo.url/image.png",
-                "acronym": "ACRONYM",
-                "location": "Azrgard",
-                "url": "https://azgard.edu.space"
-             },
-             "degree": "Thor Technology Assistant",
-             "startYear": 2013,
-             "endYear": 2017
-          }
+         {
+            "school": {
+               "name": "CertiProf",
+               "logoUrl": "img/unapec.jpg",
+               "url": "https://certiprof.com/"
+            },
+            "degree": "Scrum Foundation Professional",
+            "startYear": 2019,
+            "endYear": 2019
+         },
+         {
+            "school": {
+               "name": "Universidad APEC",
+               "logoUrl": "img/unapec.jpg",
+               "acronym": "UNAPEC",
+               "url": "https://unapec.edu.do/"
+            },
+            "degree": "Master in Management and Productivity",
+            "startYear": 2016,
+            "endYear": 2018
+         },
+         {
+            "school": {
+               "name": "Instituto Tecnológico de Las Américas ITLA",
+               "logoUrl": "img/itla.jpg",
+               "acronym": "ITLA",
+               "url": "https://itla.edu.do/"
+            },
+            "degree": "Diploma: Informatic security",
+            "startYear": 2015,
+            "endYear": 2015
+         },
+         {
+            "school": {
+               "name": "Universidad Iberomericana",
+               "logoUrl": "img/unibe.jpg",
+               "acronym": "UNIBE",
+               "url": "https://www.unibe.edu.do/"
+            },
+            "degree": "TIC ENGINEER",
+            "startYear": 2011,
+            "endYear": 2014
+         },
+         {
+            "school": {
+               "name": "Instituto Tecnológico de Las Américas ITLA",
+               "logoUrl": "img/itla.jpg",
+               "acronym": "ITLA",
+               "url": "https://itla.edu.do/"
+            },
+            "degree": "Software Technology/Technician",
+            "startYear": 2009,
+            "endYear": 2011
+         }
        ]
     },
     "workExperience": {
        "data": [
           {
              "company": {
-                "name": "Advengers",
-                "logoUrl": "https://advengers.image/image.png",
-                "url": "https://www.advengers.end"
+                "name": "Oriontek",
+                "logoUrl": "https://static.wixstatic.com/media/80c9c9_859bcbe1e66341788b32d35f1432b2f2~mv2.png/v1/fill/w_408,h_96,al_c,q_85,usm_0.66_1.00_0.01/80c9c9_859bcbe1e66341788b32d35f1432b2f2~mv2.webp",
+                "url": "https://www.oriontek.do/"
              },
-             "title": "Time Traveller",
-             "startYear": 2019,
-             "startMonth": 12,
+             "title": "Software Architect",
+             "startYear": 2018,
+             "startMonth": 4,
              "current": true,
-             "description": "Working hard to get a seat in the table"
+             "description": "Design, Propose and Lead diferent solutions from a concept to reality"
+          },
+          {
+             "company": {
+                "name": "TechNearshore",
+                "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHAQFtPcHLDWQ/company-logo_200_200/0/1519875535373?e=1642636800&v=beta&t=vv7hae-N8xgbwz_5DUA0uWBzKyhLd2lLbXTl7ZoD9lY",
+                "url": "https://www.linkedin.com/company/tech-nearshore/about/"
+             },
+             "title": "Solutions Architect / Senior Full Stack Developer",
+             "startYear": 2017,
+             "startMonth": 10,
+             "current": false,
+             "endYear": 2018,
+             "description": "Design, Propose and Lead diferent solutions from a concept to reality"
+          },
+          {
+             "company": {
+                "name": "TechNearshore",
+                "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHAQFtPcHLDWQ/company-logo_200_200/0/1519875535373?e=1642636800&v=beta&t=vv7hae-N8xgbwz_5DUA0uWBzKyhLd2lLbXTl7ZoD9lY",
+                "url": "https://www.linkedin.com/company/tech-nearshore/about/"
+             },
+             "title": "Senior Full Stack Web Developer",
+             "startYear": 2014,
+             "startMonth": 12,
+             "current": false,
+             "endYear": 2017,
+             "description": "Develop solutions for different projects mostly based in web technologies"
+          },
+          {
+             "company": {
+                "name": "Ballenasoft",
+                "url": "http://www.ballenasoft.com/"
+             },
+             "title": "Web Developer",
+             "startYear": 2013,
+             "startMonth": 1,
+             "current": false,
+             "endYear": 2016,
+             "description": "Develop solutions for different projects mostly based in web technologies"
+          },
+          {
+             "company": {
+                "name": "Intellisys",
+                "logoUrl": "https://intellisysdcorp.com/wp-content/uploads/2018/10/cropped-logo-1.png",
+                "url": "https://intellisysdcorp.com/"
+             },
+             "title": "Web Developer",
+             "startYear": 2012,
+             "startMonth": 8,
+             "current": false,
+             "endYear": 2013,
+             "description": "Mantain some legacy systems, and develop new features to some .Net Products"
           }
        ]
     },
