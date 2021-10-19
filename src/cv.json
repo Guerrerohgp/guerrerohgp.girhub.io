@@ -2,9 +2,9 @@
     "personalInfo": {
        "name": "👨‍💻 Hugo A. Guerrero",
        "position": "Software Architect",
-       "brief": "Experienced Software Architect with more than 10 years involved in all phases of software development - from concept to delivery.",
-       "email": "ing@hugoguerrero.com",
-       "emailDomain": "https://www.hugoguerrero.com",
+       "brief": "Experienced Software Architect with more than 10 years involved in all phases of software development. Passionate technophile, keen about coming by new technologies, methodologies, programming or security. Fast learner that relish finding creative solutions and implementing acquired knowledge to accomplish challenging tasks.",
+       "email": "ing",
+       "emailDomain": "hugoguerrero.com",
        "location": "Dominican Replublic",
        "gender": "Male",
        "github": "guerrerohgp",
@@ -16,7 +16,7 @@
          {
             "school": {
                "name": "CertiProf",
-               "logoUrl": "img/unapec.jpg",
+               "logoUrl": "/certiprof.jpeg",
                "url": "https://certiprof.com/"
             },
             "degree": "Scrum Foundation Professional",
@@ -26,7 +26,7 @@
          {
             "school": {
                "name": "Universidad APEC",
-               "logoUrl": "img/unapec.jpg",
+               "logoUrl": "/unapec.jpg",
                "acronym": "UNAPEC",
                "url": "https://unapec.edu.do/"
             },
@@ -37,29 +37,29 @@
          {
             "school": {
                "name": "Instituto Tecnológico de Las Américas ITLA",
-               "logoUrl": "img/itla.jpg",
+               "logoUrl": "/itla.jpeg",
                "acronym": "ITLA",
                "url": "https://itla.edu.do/"
             },
-            "degree": "Diploma: Informatic security",
+            "degree": "Diploma - Informatic security",
             "startYear": 2015,
             "endYear": 2015
          },
          {
             "school": {
                "name": "Universidad Iberomericana",
-               "logoUrl": "img/unibe.jpg",
+               "logoUrl": "/unibe.jpg",
                "acronym": "UNIBE",
                "url": "https://www.unibe.edu.do/"
             },
-            "degree": "TIC ENGINEER",
+            "degree": "TIC Engineer",
             "startYear": 2011,
             "endYear": 2014
          },
          {
             "school": {
                "name": "Instituto Tecnológico de Las Américas ITLA",
-               "logoUrl": "img/itla.jpg",
+               "logoUrl": "/itla.jpeg",
                "acronym": "ITLA",
                "url": "https://itla.edu.do/"
             },
@@ -74,19 +74,19 @@
           {
              "company": {
                 "name": "Oriontek",
-                "logoUrl": "https://static.wixstatic.com/media/80c9c9_859bcbe1e66341788b32d35f1432b2f2~mv2.png/v1/fill/w_408,h_96,al_c,q_85,usm_0.66_1.00_0.01/80c9c9_859bcbe1e66341788b32d35f1432b2f2~mv2.webp",
+                "logoUrl": "/ot.jpeg",
                 "url": "https://www.oriontek.do/"
              },
              "title": "Software Architect",
              "startYear": 2018,
              "startMonth": 4,
              "current": true,
-             "description": "Design, Propose and Lead diferent solutions from a concept to reality"
+             "description": "Design, Propose and Lead diferent solutions from concept to reality"
           },
           {
              "company": {
                 "name": "TechNearshore",
-                "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHAQFtPcHLDWQ/company-logo_200_200/0/1519875535373?e=1642636800&v=beta&t=vv7hae-N8xgbwz_5DUA0uWBzKyhLd2lLbXTl7ZoD9lY",
+                "logoUrl": "/tns.jpeg",
                 "url": "https://www.linkedin.com/company/tech-nearshore/about/"
              },
              "title": "Solutions Architect / Senior Full Stack Developer",
@@ -94,20 +94,19 @@
              "startMonth": 10,
              "current": false,
              "endYear": 2018,
-             "description": "Design, Propose and Lead diferent solutions from a concept to reality"
+             "description": "My job was to gather requiremets, make proposals and develop solutions for several projects."
           },
           {
              "company": {
                 "name": "TechNearshore",
-                "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHAQFtPcHLDWQ/company-logo_200_200/0/1519875535373?e=1642636800&v=beta&t=vv7hae-N8xgbwz_5DUA0uWBzKyhLd2lLbXTl7ZoD9lY",
-                "url": "https://www.linkedin.com/company/tech-nearshore/about/"
+                "logoUrl": "/tns.jpeg"
              },
              "title": "Senior Full Stack Web Developer",
              "startYear": 2014,
              "startMonth": 12,
              "current": false,
              "endYear": 2017,
-             "description": "Develop solutions for different projects mostly based in web technologies"
+             "description": "Develop solutions for different projects using various web technologies (mainly JS, PHP and C#)."
           },
           {
              "company": {
@@ -119,12 +118,12 @@
              "startMonth": 1,
              "current": false,
              "endYear": 2016,
-             "description": "Develop solutions for different projects mostly based in web technologies"
+             "description": "Ballenasoft is a freelance software development team, we worked on several projects, using languages like C#, PHP and JAVA. Some of the companies i worked with are: ETED, Soluciones Globales and DGHA."
           },
           {
              "company": {
                 "name": "Intellisys",
-                "logoUrl": "https://intellisysdcorp.com/wp-content/uploads/2018/10/cropped-logo-1.png",
+                "logoUrl": "/intellisys.jpeg",
                 "url": "https://intellisysdcorp.com/"
              },
              "title": "Web Developer",
@@ -132,43 +131,25 @@
              "startMonth": 8,
              "current": false,
              "endYear": 2013,
-             "description": "Mantain some legacy systems, and develop new features to some .Net Products"
+             "description": "Mantained some legacy systems, and developed new features for several products, mainly C#, N2 CMS, and Umbraco CMS."
           }
        ]
     },
     "skillsAndTech": {
        "technologies": [
-          {
-             "name": "Javascript",
-             "level": "advanced"
-          },
-          {
-             "name": "CSS",
-             "level": "advanced"
-          },
-          {
-             "name": "React",
-             "level": "advanced"
-          },
-          {
-             "name": "Node.js",
-             "level": "advanced"
-          },
-          {
-             "name": "SQL",
-             "level": "intermediate"
-          },
-          {
-             "name": "MySQL",
-             "level": "I"
-          },
-          {
-             "name": "Typescript",
-             "level": "I"
-          }
+          { "name": "C#", "level": "A" },
+          { "name": "Javascript", "level": "A" },
+          { "name": "PHP", "level": "A" },
+          { "name": "JAVA", "level": "A" },
+          { "name": "CSS", "level": "A" },
+          { "name": "HTML", "level": "A" },
+          { "name": "SQL", "level": "A" },
+          { "name": "MySQL", "level": "A" },
+          { "name": "Linux", "level": "A" },
+          { "name": "Docker", "level": "A" }
        ]
     },
-    "portfolio": {
+    "portfolios": {
        "projects": [
           {
              "name": "Save Hulk",
